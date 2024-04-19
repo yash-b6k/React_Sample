@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.navbar-brand
+{
+  color: #458fba;
+}
+.btn{
+  float: right;
+}
+.navbar {
+  
+    background: linear-gradient(to right, #cce64a, #378cec);
+  }
+  
